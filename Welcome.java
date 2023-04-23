@@ -18,7 +18,7 @@ class Welcome implements Runnable
 		l1.setBounds(250,300,900,50);
 		l1.setFont(new Font("Courier new",Font.BOLD,60));
 		l1.setForeground(Color.red);
-		l2=new JLabel(" _By Dushmanta Pradhan");
+		l2=new JLabel(" _By Kishan Kumar");
 		l2.setFont(new Font("Courier new",Font.BOLD,35));
 		l2.setBounds(350,380,800,40);
 		l2.setForeground(Color.red);
