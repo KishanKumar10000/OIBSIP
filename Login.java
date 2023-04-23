@@ -59,7 +59,7 @@ if(t1.getText().length()==0||t2.getText().length()==0)
 {
 JOptionPane.showMessageDialog(null,"Fields are empty");
 }
-else if(t1.getText().equals("dush") && t2.getText().equals("1234"))
+else if(t1.getText().equals("Kishan") && t2.getText().equals("1234"))
 {
 f.setVisible(false);
 M=new Main();
