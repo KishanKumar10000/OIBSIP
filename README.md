@@ -1,1 +1,1 @@
-# OIBSIP
+Online Reservation System
